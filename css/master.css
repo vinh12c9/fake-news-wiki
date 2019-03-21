@@ -19,3 +19,29 @@ ul {
   background-position: center center;
   text-decoration: none;
 }
+
+.top-nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+}
+
+.top-nav li {
+  display: inline;
+}
+
+.top-left-nav {
+  float: left;
+  margin-left: 10em;
+  margin-top: 2.5em;
+  margin-bottom: -2.5em;
+}
+
+.top-right-nav {
+  float: right;
+}
+
+.top-tight-nav-search {
+  float: right;
+}
