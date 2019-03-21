@@ -1,0 +1,15 @@
+.side-bar {
+  position: absolute;
+  top: 0;
+  width: 10em;
+  left: 0;
+}
+
+.wiki-logo {
+  display: block;
+  width: 10em;
+  height: 160px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-decoration: none;
+}
