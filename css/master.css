@@ -8,7 +8,8 @@ ul {
   top: 0;
   width: 10em;
   left: 0;
-  padding-left: .5em
+  padding-left: .5em;
+  /* display: none; */
 }
 
 .wiki-logo {
@@ -40,8 +41,13 @@ ul {
 
 .top-right-nav {
   float: right;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 
 .top-tight-nav-search {
   float: right;
+  position: absolute;
+  right: 0;
 }
